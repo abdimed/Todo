@@ -1,3 +1,5 @@
-<template>
-    Table coming soon.
-</template>
+<script>
+
+</script>
+
+<template></template>
